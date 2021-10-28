@@ -1,7 +1,7 @@
 package threadarray;
 import java.util.Scanner;
 
-public class TheardCheckArray {
+public class TestTheardCheckArray {
 		public static void main(String[] args) {
 			try (Scanner input = new Scanner(System.in)) {
 				Thread thread1, thread2;
